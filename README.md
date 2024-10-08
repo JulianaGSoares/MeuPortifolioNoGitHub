@@ -7,7 +7,7 @@ Este é o meu portfólio online, desenvolvido em HTML, CSS e JavaScript. Ele lis
    - Filtragem para exibir apenas repositórios que eu mesmo publiquei (exclui forks);
    - Design responsivo com tons de azul e rosa;
    - Links diretos para cada repositório.
-   - 
+    
 # 🛠 Tecnologias utilizadas
    - HTML5: estrutura da página;
    - CSS3: estilização com foco em responsividade;
